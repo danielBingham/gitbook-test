@@ -10,6 +10,7 @@ We update gitbook by editing these files.
 
 You can release our software by using Gulp.
 
-```
+```text
 # ./gulp deploy
 ```
+
