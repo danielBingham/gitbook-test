@@ -1,2 +1,3 @@
-# gitbook-test
-Using this repo to test gitbook out.
+# Documention for Gitbook Test 
+
+I am using this repo to test out using gitbook on our documentation.
